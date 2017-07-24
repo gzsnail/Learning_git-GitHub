@@ -14,7 +14,7 @@ git和其他version control system的比较
 
 
 GitHub  
-git和GitHub的区别和联系  
+[git和GitHub的区别和联系](https://github.com/gzsnail/Mastering_git_and_GitHub/blob/master/differences_between_git_and_GitHub)  
 GitHub Flow  
 GitHub Source Code Management   
 GitHub Collaboration Features  
